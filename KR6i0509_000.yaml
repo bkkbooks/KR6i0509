@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0509/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說清淨心經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0803.xml
+    old_id: T17n0803
+hash: sha256:f8160c57eb920b556e77be8767a06712d4adb58fa89cfbd48195ca73b20bb19e

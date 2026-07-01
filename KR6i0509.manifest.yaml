@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6i0509/v1
+canonical_location: https://kanripo.org/bkk/KR6i0509/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說清淨心經
+  identifiers:
+    alt_id:
+    - T17n0803
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0803.xml
+    old_id: T17n0803
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0509_000.yaml, hash: 'sha256:f8160c57eb920b556e77be8767a06712d4adb58fa89cfbd48195ca73b20bb19e'}
+  - {seq: 1, filename: KR6i0509_001.yaml, hash: 'sha256:aa11b4ef511e45f122eea1a42a8c5dca14d5498f57828784182805423d4e8e99'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0509_001.markers.yaml, hash: 'sha256:a4baaa05422baa457ba503da4fe41b186e9cd0515d87b6b9fb4142f47003bdb6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0509_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 280
+  label: 佛說清淨心經
+  type: juan
+  level: 1
+hash: sha256:899222cf3ea03af06637c00be201cce23094180e7b386c4f701c675d97824ab1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
