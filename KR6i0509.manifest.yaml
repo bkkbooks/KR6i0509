@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0509_000.yaml, hash: 'sha256:f8160c57eb920b556e77be8767a06712d4adb58fa89cfbd48195ca73b20bb19e'}
-  - {seq: 1, filename: KR6i0509_001.yaml, hash: 'sha256:aa11b4ef511e45f122eea1a42a8c5dca14d5498f57828784182805423d4e8e99'}
+  - {seq: 1, filename: KR6i0509_001.yaml, hash: 'sha256:935f9da90753889d752e22670c20eec7effa7ea0b4592e755b8c1cb2cbbf48f8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0509_001.markers.yaml, hash: 'sha256:a4baaa05422baa457ba503da4fe41b186e9cd0515d87b6b9fb4142f47003bdb6'}
+  - {seq: 0, role: markers, filename: assets/KR6i0509_000.markers.yaml, hash: 'sha256:d4c8b6ec3fb659f4fdd883f68c6558f47492087aebc3f330df1a74159701f601'}
+  - {seq: 1, role: markers, filename: assets/KR6i0509_001.markers.yaml, hash: 'sha256:a3e0c46f13833eac1a898e65d5a9dd30a9e9c89138e9a9f06c1c04be20d1f27d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 佛說清淨心經
   type: juan
   level: 1
-hash: sha256:899222cf3ea03af06637c00be201cce23094180e7b386c4f701c675d97824ab1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e0846a03a7e142fc60a1625ed9b8415993860cd51d8d2fdd9b0a7db9f6d8de71
