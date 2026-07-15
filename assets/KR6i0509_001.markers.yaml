@@ -14,6 +14,7 @@ markers:
   - {type: xml-element, offset: 29, content: '', id: pT17p0749a0801, name: p, role: open, attrs: {'xml:id': pT17p0749a0801}}
   - {type: punctuation, offset: 44, content: ，, id: KR6i0509_T_001-bkkpn1}
   - {type: line-break, offset: 46, content: '', id: KR6i0509_T_001-0749a09, ed: T, 'n': 0749a09}
+  - {type: substitution, offset: 47, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 49, content: 。, id: KR6i0509_T_001-bkkpn2}
   - {type: xml-element, offset: 49, content: '', id: pT17p0749a0801_end, name: p, role: close, attrs: {'xml:id': pT17p0749a0801}}
   - {type: line-break, offset: 49, content: '', id: KR6i0509_T_001-0749a10, ed: T, 'n': 0749a10}
@@ -101,10 +102,11 @@ markers:
   - {type: punctuation, offset: 269, content: 。, id: KR6i0509_T_001-bkkpn61}
   - {type: line-break, offset: 269, content: '', id: KR6i0509_T_001-0749a25, ed: T, 'n': 0749a25}
   - {type: punctuation, offset: 272, content: ！, id: KR6i0509_T_001-bkkpn62}
+  - {type: substitution, offset: 275, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 276, content: ，, id: KR6i0509_T_001-bkkpn63}
   - {type: punctuation, offset: 280, content: 。, id: KR6i0509_T_001-bkkpn64}
   - {type: punctuation, offset: 280, content: 」, id: KR6i0509_T_001-bkkpn65}
   - {type: xml-element, offset: 280, content: '', id: pT17p0749a2201_end, name: p, role: close, attrs: {'xml:id': pT17p0749a2201}}
   - {type: line-break, offset: 280, content: '', id: KR6i0509_T_001-0749a26, ed: T, 'n': 0749a26}
   back: []
-hash: sha256:a3e0c46f13833eac1a898e65d5a9dd30a9e9c89138e9a9f06c1c04be20d1f27d
+hash: sha256:d48c9b38f0ca7c0a6adc891d789502dca6e11f22648c696b6773075f28546680

@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0509/v1
 canonical_location: https://kanripo.org/bkk/KR6i0509/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說清淨心經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0509_000.yaml, hash: 'sha256:f8160c57eb920b556e77be8767a06712d4adb58fa89cfbd48195ca73b20bb19e'}
-  - {seq: 1, filename: KR6i0509_001.yaml, hash: 'sha256:935f9da90753889d752e22670c20eec7effa7ea0b4592e755b8c1cb2cbbf48f8'}
+  - {seq: 1, filename: KR6i0509_001.yaml, hash: 'sha256:9d7f32e26a3152980139b3c9734425d041f455509ce921c1fc2a9946cba7fb89'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0509_000.markers.yaml, hash: 'sha256:d4c8b6ec3fb659f4fdd883f68c6558f47492087aebc3f330df1a74159701f601'}
-  - {seq: 1, role: markers, filename: assets/KR6i0509_001.markers.yaml, hash: 'sha256:a3e0c46f13833eac1a898e65d5a9dd30a9e9c89138e9a9f06c1c04be20d1f27d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0509_001.markers.yaml, hash: 'sha256:d48c9b38f0ca7c0a6adc891d789502dca6e11f22648c696b6773075f28546680'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,7 @@ table_of_contents:
   label: 佛說清淨心經
   type: juan
   level: 1
-hash: sha256:e0846a03a7e142fc60a1625ed9b8415993860cd51d8d2fdd9b0a7db9f6d8de71
+hash: sha256:eaf2a78f38e71b4585823f708674c5556a28b18f40bf98d907005621ba6cc446
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
